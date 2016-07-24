@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Data Science Portfolio"
+title                    : ""
 title_separator          : "-"
 name                     : "David King"
-description              : "An amazing website."
+description              : "A Data Science Portfolio & Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -65,7 +65,7 @@ google_ad_slot           :
 author:
   name             : "David King"
   avatar           : "bio-photo.jpg"
-  bio              : "MA Economics, Data Enthusiast"
+  bio              : "MA Economics, ML Enthusiast"
   location         : "Seattle, WA"
   email            :
   uri              :
