@@ -43,7 +43,6 @@ defaults:
       related: true
       noindex: false
       header:
-        image: default-header.png
 
 # SEO Related
 google_site_verification :
