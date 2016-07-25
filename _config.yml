@@ -6,6 +6,21 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      
+
 locale                   : "en"
 title                    : "David King"
 title_separator          : "-"
